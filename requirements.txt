@@ -1,0 +1,7 @@
+#torch #按照官网要求来 https://pytorch.org/get-started/locally/
+numpy==1.26.4
+pyautogui
+pynput
+pillow
+easyocr
+pyyaml
